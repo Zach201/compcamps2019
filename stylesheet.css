@@ -1,0 +1,50 @@
+body{
+  background-color: #41F2E1;
+   background-image: url("spacevaporwave.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.title{
+  color: #EF3DF2;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  font-size: 80px;
+ }
+
+.paragraph{
+  color: #EF3DF2;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+.img_me {
+ width: 400px;
+ display: block;
+ margin: 0 auto;
+}
+
+.fire{
+}
+
+.nav{
+text-align: center;
+background-color: #0F0526;
+}
+
+.navbar{
+  list-style-type: none;
+}
+
+.navlink{
+  display: inline;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 40px;
+}
+
+a{
+  text-decoration: none;
+  color: #BF1FB5;
+}
